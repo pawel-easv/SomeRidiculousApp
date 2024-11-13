@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("Skot mi na kokot");
         System.out.println("Skot mi na kokot curaku");
         System.out.println("t");
+        System.out.println("dupa");
     }
 }
