@@ -17,11 +17,14 @@ public class HelloApplication extends Application {
         stage.show();
     }
 
-    public class dupa { }
+    public class horse {}
+
+    public class dog {}
+
+    public class cat {}
 
     public static void main(String[] args) {
     System.out.println("Hello World!");
         launch();
     }
-
 }
