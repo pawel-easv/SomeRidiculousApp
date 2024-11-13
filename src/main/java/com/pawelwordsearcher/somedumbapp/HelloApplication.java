@@ -17,7 +17,11 @@ public class HelloApplication extends Application {
         stage.show();
     }
 
+    public class dupa { }
+
     public static void main(String[] args) {
+    System.out.println("Hello World!");
         launch();
     }
+
 }
