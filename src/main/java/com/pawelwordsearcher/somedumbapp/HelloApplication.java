@@ -17,6 +17,7 @@ public class HelloApplication extends Application {
         stage.show();
     }
 
+    public class dupaRomana123 { }
     public class horse {}
 
     public class dog {}
@@ -27,4 +28,5 @@ public class HelloApplication extends Application {
     System.out.println("Hello World!");
         launch();
     }
+
 }
