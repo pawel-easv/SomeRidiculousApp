@@ -6,5 +6,9 @@ public class HelloDD {
         System.out.println("Skot mi na kokot curaku");
         System.out.println("t");
         System.out.println("dupa");
+        fafadgbdaf]afs]
+        gsd
+
+
     }
 }
